@@ -42,7 +42,7 @@ The selected developer will be responsible for the following tasks:
 - Weekly check-ins to track progress and ensure the project is on schedule.
 
 ## ⏳ **Project Deadline**
-- Complete the project before the **end of January**.
+- Complete the project on or before the **end of this January**.
 
 ## 📝 **What We’re Looking For**
 Anyone with a capability to developed with any means.
